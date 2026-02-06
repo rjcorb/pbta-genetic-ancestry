@@ -11,7 +11,7 @@ For issue and pull request history, please visit https://github.com/d3b-center/p
 
 1. Clone the repository:
 ```
-git clone git@github.com:rokitalab/pbta-genetic-ancestry.git
+git clone git@github.com:rjcorb/pbta-genetic-ancestry.git
 ```
 
 2. Pull Docker container:
